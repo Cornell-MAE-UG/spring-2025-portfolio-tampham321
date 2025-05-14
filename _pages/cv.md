@@ -8,7 +8,7 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:thp28@cornell.edu) | | | **Phone:** +617 898 8768
+**Email:** [thp28@cornell.edu](mailto:thp28@cornell.edu) | | | **Phone:** +617 898 8768
 
 ---
 
@@ -22,7 +22,7 @@ Aspiring engineering student with a strong foundation in sustainable design, pro
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
   GPA: 3.0/4.0 | Graduation: May, 2027
 
-- **[Boston Latin School]**  
+- **Boston Latin School**  
   *High School Diploma*  
   Graduation: GPA: 4.16/4.0 | June, 2023
 
