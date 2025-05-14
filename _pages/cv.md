@@ -24,7 +24,7 @@ Aspiring engineering student with a strong foundation in sustainable design, pro
 
 - **[Boston Latin School]**  
   *High School Diploma*  
-  Graduation: [June, 2023]
+  Graduation: GPA: 4.16/4.0 | June, 2023
 
 ---
 
@@ -37,12 +37,15 @@ Aspiring engineering student with a strong foundation in sustainable design, pro
 
 #### Projects
 - **Cornell Sustainable Design | Team Member**:
+  *Ithaca, New York*
+  - Design modular, eco-friendly bus shelters for Ithaca’s TCAT through Cornell Sustainable Design, enhancing accessibility, energy efficiency, and commuter experience. 
+  - Utilized 3D Modeling and 3D Modeling Software, including Fusion360 and Ansys Mechanical, to develop innovative, user-centered design solutions integrating technology, sustainability, as well as fire protection systems
 - **Independent Game Developer | Roblox**:  
   *Developer, Boston Massachusetts*  
   - Collaborating with 30+ clients and generating over $500 in revenue. Proficient in Roblox Studio and Lua programming, specializing in developing creative game design and providing game-ready products for customers.
   - Strong project management and marketing skills, balancing freelance work with academic responsibilities. Committed to delivering high-quality projects on time while maintaining excellent communication with clients.
 
-- **MAE 225t0 | Product Design Engineer**:  
+- **MAE 2250 | Product Design Engineer**:  
   *Ithaca, New York*  
   - Designed and fabricated an innovative, lightweight backpack for skis and ski boots, focusing on ergonomic efficiency and durability.
   - Developed CAD models to 3D Model prototypes and performed static stress analysis of multiple components using Fusion360.
